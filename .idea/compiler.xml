@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -9,6 +10,8 @@
         <module name="demo20250429_1" />
         <module name="demo20250429_2" />
         <module name="demo20250429_3" />
+        <module name="demo20250503_1" />
+        <module name="imagga-ocr-demo" />
         <module name="demo20250425_02" />
         <module name="demo20250430_1" />
         <module name="demo20250430_2" />
