@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo20250429_1" />
         <module name="demo20250429_2" />
+        <module name="demo20250503_1" />
         <module name="demo20250429_3" />
         <module name="demo20250503_1" />
         <module name="imagga-ocr-demo" />
