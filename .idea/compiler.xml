@@ -9,7 +9,10 @@
         <module name="demo20250429_1" />
         <module name="demo20250429_2" />
         <module name="demo20250503_1" />
+        <module name="demo20250429_3" />
         <module name="demo20250425_02" />
+        <module name="demo20250430_1" />
+        <module name="demo20250430_2" />
         <module name="demo20250425_2" />
       </profile>
     </annotationProcessing>
